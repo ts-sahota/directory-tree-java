@@ -1,3 +1,4 @@
+![Directory Tree Preview](thumbnail.jpeg)
 # directory-tree-java  
 Simulated file system using trees and recursion in Java
 
